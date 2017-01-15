@@ -27,7 +27,7 @@ Monday | 04:00pm – 05:30pm
 Tuesday | 03:00pm – 04:00pm
 Wednesday | 04:00pm – 05:30pm
 Thursday | 03:00pm – 04:00pm
-* I will also be online during these time thourgh the [Slack](http://eddierangel.slack.com). You need to register in ordre to use the app.
+* I will also be online during these time thourgh the [Slack](http://eddierangel.slack.com). You need to register in order to use the app.
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
