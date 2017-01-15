@@ -48,7 +48,8 @@ Course Corequisites: NONE
 ## Textbook
 
 ### Required:
-* Starting Out W/Python (LOOSELEAF) (3rd edition) by Tony Gaddis, ISBN: 9780133848496
+* HTML & CSS (ISBN: 978-1-118-00818-8)
+* You will need to sign up for a web hosting account
 * Flash Drive
 * BC Email Account
 * GitHub Account w/ Student Access
