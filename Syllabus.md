@@ -31,8 +31,8 @@ Thursday | 03:00pm – 04:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
-Recommended: Reading - 1 Level Prior to Transfer. DESCRIPTION: This course is an introductory course in designing web pages using HTML and 
-CSS coding. Rather than using a program to write the code, students will learn how to create basic web pages and sites from the ground up 
+Recommended: Reading - 1 Level Prior to Transfer. 
+This course is an introductory course in designing web pages using HTML and CSS coding. Rather than using a program to write the code, students will learn how to create basic web pages and sites from the ground up 
 using standards-compliant coding techniques. Not open to students who have previously received credit for COMS B74b.
 Course Corequisites: NONE
 
@@ -131,24 +131,23 @@ May 12 | End of Spring Semester
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
 1 | Introduction | Ch. 1 |
-2 | Input, Processing, and Output | Ch. 2 | 
-3 | Decision Structures | Ch. 3 | Homework 1 Due
-4 | Repetition Structures | Ch. 4 | Homework 2 Due
-5 | Functions | Ch. 5 | Homework 3 Due 
-6 | Functions cont. | | Homework 4 Due
-7 | Files and Exceptions | Ch. 6 | Homework 5 Due
+2 | History of HTML, HTML Structure, Naming conventions | Ch. 1 | 
+3 | Text Tags - Table of Contents page - Basic formatting | Ch. 2, 3, 8 | 
+4 | Hyperlinks - 3 types - Connecting | Ch. 10, 11, 12 | 
+5 | Working with Images - Image Types  | Ch. 4 & 18 |
+6 | Tables | Ch. 5 & 16 | 
+7 | Forms | Ch. 6 & 13 | 
 6 | Lists and Tuples | Ch. 7 | 
-8 | Midterm | | 
-9 | More about Strings | Ch. 8 | Homework 6 Due
-10 | Dictionaries and Sets | Ch. 9 | Homework 7 Due 
-11 | Classes and Object Oriented Programming | Ch. 10 | Homework 8 Due 
-12 | Classes cont. | | Homework 9 Due
+8 | Design Ideas | | 
+9 | Midterm Project |  | 
+10 | Designing for Mobile Devices | Ch. 14 | 
+11 | CSS3 Tricks | Ch. 15 | 
+12 | Video and Multimedia | | 
 13 | Spring Break - Campus Closed | | 
-14 | Inheritence | Ch. 11 | Homework 10 Due
-15 | Recursion | Ch. 12 |
-16 | GUI Programming | Ch. 13 |
-17 | Finals Week | |  
-  |  **Thurs., May 11 from 12PM - 1:50PM** | | 
+14 | HTML5 Canvas  | Ch. 9 | 
+15 | Using external scripts |  |
+16 | Redesign Process Final Project Work Time |  |
+17 | Finals Week | |   
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
 ### This syllabus is TENTATIVE and subject to change
