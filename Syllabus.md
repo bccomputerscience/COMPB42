@@ -101,7 +101,7 @@ hand navigation links) to send email for private messages. You can either check 
 CANVAS system or set your notifications to your preferred method of contact. Please check your
 messages regularly. When submitting messages, please do the following:
 * Put a subject in the subject box that describes the email content with your name, week and
-message subject. For example: YOURNAMEWK2ASSIGNMENT.
+message subject. For example: YOURNAME WK2ASSIGNMENT.
 * Send email only to CONVERSATIONS and not my personal email account.
 * Do not send messages asking general information about the class, please post those in the
 QUESTION FORUM.
@@ -112,9 +112,7 @@ QUESTION FORUM.
 In online courses it is normal to have many questions about things that relate to the course, such as
 clarification about assignments, course materials, or assessments. Please post these in the QUESTION
 FORUM which you can access by clicking the DISCUSSIONS button in the course navigation links. This is
-an open forum, and you are encouraged to give answers and help each other. For each clear and
-comprehensive answer you give, you can receive 1 extra credit point for the course (up to 5 points
-maximum). [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
+an open forum, and you are encouraged to give answers and help each other. [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
 
 ### Discussion Forums
 Discussion Forums are a way for you to engage with each other about the course content. Each lesson
