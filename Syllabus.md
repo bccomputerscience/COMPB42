@@ -95,7 +95,7 @@ you can download it by going to http://get.adobe.com/reader/.
 Announcements will be posted in CANVAS on a regular basis. They will appear on your CANVAS dashboard
 when you log in and/or will be sent to you directly through your preferred method of notification from
 CANVAS. Please make certain to check them regularly, as they will contain any important information
-about upcoming projects or class concerns.
+about upcoming projects or class concerns. [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
 
 ### Email
 In this course we will use the CONVERSATIONS feature on the help corner (located in the upper right
@@ -116,14 +116,14 @@ clarification about assignments, course materials, or assessments. Please post t
 FORUM which you can access by clicking the DISCUSSIONS button in the course navigation links. This is
 an open forum, and you are encouraged to give answers and help each other. For each clear and
 comprehensive answer you give, you can receive 1 extra credit point for the course (up to 5 points
-maximum).
+maximum). [Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
 
 ### Discussion Forums
 Discussion Forums are a way for you to engage with each other about the course content. Each lesson
 module will have a question that links to a forum. You can also access each forum by clicking on the
 DISCUSSIONS button in the course navigation links. In order to get full credit for each discussion, you will
 need to post a thoughtful, well-written response to the question and respond to two of your classmates’
-answers.
+answers.[ Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
 
 ### Virtual Office Hours
 Twice a week I will be available for virtual office hours – one morning and one evening session using
