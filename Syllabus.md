@@ -101,8 +101,8 @@ hand navigation links) to send email for private messages. You can either check 
 CANVAS system or set your notifications to your preferred method of contact. Please check your
 messages regularly. When submitting messages, please do the following:
 * Put a subject in the subject box that describes the email content with your name, week and
-message subject. For example: YOURNAME WK2ASSIGNMENT.
-* Send email only to CONVERSATIONS and not my personal email account.
+message subject. For example: YOURNAME ASSIGNMENT2.
+* Send email only to CONVERSATIONS and not my school email account.
 * Do not send messages asking general information about the class, please post those in the
 QUESTION FORUM.
 * Do not submit your assignments by message.
