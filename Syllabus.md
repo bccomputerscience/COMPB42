@@ -170,7 +170,7 @@ Go to a BC Library Workshop (10 pts)
 [Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
 * Maximum of two workshops per semester course
 
-Participate in BC Hackathon Spring 2017 (20 pts)
+Participate in BC Hackathon Spring 2017 (10 pts)
 * March 17th - 19th
 * Must complete the competition
 
