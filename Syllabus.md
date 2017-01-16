@@ -144,11 +144,11 @@ timely basis. Consistent failure to participate in class will result in being dr
 
 Assignment | Points
 ------------ | -------------
-Project | 50
 Mid Term Exam | 50
-Homework Assignments (10 @ 10 points each) | 100
+Homework Assignments (10 @ 20 points each) | 200
+Discussions (10 @ 10 points each)| 100
 Final Exam | 50
-**TOTAL** | **500**
+**TOTAL** | **400**
 
 Range (%) | grade 
 ------------ | -------------
