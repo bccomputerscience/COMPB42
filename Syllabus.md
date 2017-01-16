@@ -161,7 +161,7 @@ Range (%) | grade
 
 
 ## Exams, Assignments, and Late Policy 
-Make-up exams or quizzes will not be given and late assignments will not be accepted. Assignments are due at the beginning of the class session. 
+Make-up exams or quizzes will not be given and late assignments will not be accepted. Assignments are due at the specified due date. 
 You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. 
 You will not be given extra time to complete the exam or quiz if you start late.
 
