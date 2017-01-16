@@ -78,26 +78,26 @@ This course is conducted entirely online, which means you do not have to be on c
 portion of it. You will participate in the course using BC's learning management system called CANVAS.
 
 
-## Computer Requirements
+## Technology Requirements
 ### ACCESS
 * If you do not have access to a computer off campus, there are many computer labs on
 campus you can use to participate in the course. Most public libraries also have computers
 with internet access that you can use for free.
 
-### COMPUTER REQUIREMENTS
+### Computer Requirements
 * You will need to have an up-to-date browser, operating system and some additional
 software on your computer to take this class. Some of the documents in this course will be available
 to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer,
 you can download it by going to http://get.adobe.com/reader/.
 
 ## Course communication
-### ANNOUNCEMENTS
+### Announcements
 Announcements will be posted in CANVAS on a regular basis. They will appear on your CANVAS dashboard
 when you log in and/or will be sent to you directly through your preferred method of notification from
 CANVAS. Please make certain to check them regularly, as they will contain any important information
 about upcoming projects or class concerns.
 
-### EMAIL
+### Email
 In this course we will use the CONVERSATIONS feature on the help corner (located in the upper right
 hand navigation links) to send email for private messages. You can either check your messages in the
 CANVAS system or set your notifications to your preferred method of contact. Please check your
@@ -110,7 +110,7 @@ QUESTION FORUM.
 * Do not submit your assignments by message.
 * Make certain to check your messages frequently.
 
-### QUESTIONS
+### Questions
 In online courses it is normal to have many questions about things that relate to the course, such as
 clarification about assignments, course materials, or assessments. Please post these in the QUESTION
 FORUM which you can access by clicking the DISCUSSIONS button in the course navigation links. This is
@@ -118,14 +118,14 @@ an open forum, and you are encouraged to give answers and help each other. For e
 comprehensive answer you give, you can receive 1 extra credit point for the course (up to 5 points
 maximum).
 
-### DISCUSSION FORUMS
+### Discussion Forums
 Discussion Forums are a way for you to engage with each other about the course content. Each lesson
 module will have a question that links to a forum. You can also access each forum by clicking on the
 DISCUSSIONS button in the course navigation links. In order to get full credit for each discussion, you will
 need to post a thoughtful, well-written response to the question and respond to two of your classmates’
 answers.
 
-### VIRTUAL OFFICE HOURS
+### Virtual Office Hours
 Twice a week I will be available for virtual office hours – one morning and one evening session using
 CANVAS CHAT. Click CHAT in the course navigation links.
 TURNAROUND/FEEDBACK 
@@ -133,12 +133,12 @@ TURNAROUND/FEEDBACK
 During the week (M-F) I will check CONVERSATIONS and monitor the discussion board several times a
 day. If you have a concern and send me a message, you can expect a response within two days.
 
-### NETIQUETTE
+### Netiquette
 When posting on the discussion boards and chat rooms it is important to understand how to interact with
 one another online, netiquette. You can read more about the rules of netiquette at
 http://www.albion.com/netiquette/index.html.
 
-## COURSE PARTICIPATION POLICY
+## Course Participation Policy
 Participation is essential to your success in this class. In distance education courses you are required to
 participate just as if you were in a face-to-face course. This means that in order to get full credit for
 participation, you will have to complete your discussion assignments, lesson assignments and quizzes on a
