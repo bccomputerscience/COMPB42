@@ -19,7 +19,7 @@ Online via [Canvas](https://kccd.instructure.com/) or
 through the [BC Portal](https://portal.bakersfieldcollege.edu)
 
 ## Office Hours
-Building/Room: Business 1
+Office: Business 1
 
 Day | Time
 ------------ | -------------
