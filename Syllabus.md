@@ -118,24 +118,23 @@ Dec 09 | End of Fall Semester
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Intro. to Computer Systems | Ch. 1 | 
-2 | Bytes and Beyond | Ch. 2 | HW 1
-3 | Computer Arithmetic | Ch. 3 | PA 1
-4 | Logic Gates & Circuits | Ch. 4 | HW 2, PA 2
-5 | Logic Circuits  | Ch. 5 | 
-6 | CPU | Ch. 6 | HW 3, PA 3
-7 | Programming Assembly | Ch. 7 | HW 4, PA 4
-8 | Program Data | Ch. 8 | HW 5
-9 | MidTerm | **Bring ScanTron** | PA 5
-10 | Computer Operations  | Ch. 9 | 
-11 | Program Flow | Ch. 10 | HW 6, PA 6
-12 | Functions | Ch. 11 | HW 7, PA 7
-13 | Operations and Data Structure| Ch. 12 & 13 | HW 8, PA 8
-14 | Fractionals | Ch. 14 | HW 9, PA 9
-15 | Interrupts and Exceptions | Ch. 15 | HW 10, PA 10
-16 | Input/Output | Ch. 16 | HW 10, PA 10
-17 | Finals Week |  | 
-|  |  Final Exam Thurs., Dec. 7 from 2:00 pm - 3:50 pm | **Bring ScanTron** | 
+1 | Introduction | Ch. 1 |
+2 | History of HTML, HTML Structure, Naming conventions | Ch. 1 | 
+3 | Text Tags - Table of Contents page - Basic formatting | Ch. 2, 3, 8 | 
+4 | Hyperlinks - 3 types - Connecting | Ch. 10, 11, 12 | 
+5 | Working with Images - Image Types  | Ch. 4 & 18 |
+6 | Tables | Ch. 5 & 16 | 
+7 | Forms | Ch. 6 & 13 | 
+6 | Lists and Tuples | Ch. 7 | 
+8 | Design Ideas | | 
+9 | Midterm Project |  | 
+10 | Designing for Mobile Devices | Ch. 14 | 
+11 | CSS3 Tricks | Ch. 15 | 
+12 | Video and Multimedia | | 
+13 | HTML5 Canvas  | Ch. 9 | 
+14 | Using external scripts |  |
+15 | Redesign Process Final Project Work Time |  |
+16 | Project Due |  |
 
 ## Accommodations 
 Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
