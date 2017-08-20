@@ -22,12 +22,11 @@ Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 12:30pm
-Tuesday | 1:00pm – 2:00pm
-Wednesday | 11:30am – 12:30pm
-Thursday | 1:00pm – 2:00pm
-  | 4:30pm – 5:30pm
-* If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
+Monday | 09:30am – 11:00am
+Tuesday | 03:00pm – 04:00pm
+Wednesday | 09:30am – 11:00am
+Thursday | 03:00pm – 04:00pm
+* If you are unable to see me during my regularly scheduled office hours, please contact me through Canvas to schedule an appointment.
 
 ## Course Description
 This course is designed as a first course in software engineering for mixed-majors, with an emphasis on the Computer 
