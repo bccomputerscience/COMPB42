@@ -1,9 +1,8 @@
-# COMP B42 - Web Design: HTML & CSS
-## SPRING 2017 CRN: 31068
+## FALL 2017 CRN: 71474
 
 ## Instructor
 Eddie Rangel  
-Asst. Professor  
+Assoc. Professor  
 Information Technology  
 Bakersfield College  
 
@@ -11,25 +10,23 @@ Bakersfield College
 Building/Room: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: http://courses.eddierangel.com/bc  
+Course Site: https://portal.bakersfieldcollege.edu/   
+Web: http://www.eddierangel.com/bc   
 
 ## Course Information
-Building/Room: Business 5       
-
-Day | Time
------------- | -------------
-Tuesday | 01:00pm - 02:25pm
-Thursday | 01:00pm - 02:25pm
+Online via [Canvas](https://kccd.instructure.com/) or
+through the [BC Portal](https://portal.bakersfieldcollege.edu)
 
 ## Office Hours
 Building/Room: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 04:00pm – 05:30pm
-Tuesday | 03:00pm – 04:00pm
-Wednesday | 04:00pm – 05:30pm
-Thursday | 03:00pm – 04:00pm
+Monday | 11:30am – 12:30pm
+Tuesday | 1:00pm – 2:00pm
+Wednesday | 11:30am – 12:30pm
+Thursday | 1:00pm – 2:00pm
+  | 4:30pm – 5:30pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
