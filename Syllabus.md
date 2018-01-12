@@ -54,20 +54,7 @@ Course Corequisites: NONE
 * BC Email Account
 
 ## Attendance
-Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. 
-
-This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using BC's learning management system called Canvas.
-
-## Course Participation Policy
-Participation is essential to your success in this class. In distance education courses you are required to participate just as if you were in a face-to-face course. This means that in order to get full credit for participation, you will have to complete your discussion assignments, lesson assignments and quizzes on a timely basis. Consistent failure to participate in class will result in being dropped from the course.
-
-### Virtual Office Hours
-Twice a week I will be available for virtual office hours – one morning and one evening session using Canvas Chat. Click Chat in the course navigation links.
-
-### Netiquette
-When posting on the discussion boards and chat rooms it is important to understand how to interact with
-one another online, netiquette. You can read more about the rules of netiquette at
-http://www.albion.com/netiquette/index.html.
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
 
 ## Assignments, Quizzes and Exams
 
