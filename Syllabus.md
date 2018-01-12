@@ -1,5 +1,5 @@
 # COMP B42 - Web Design: HTML & CSS
-## FALL 2017 CRN: 71474
+## SPRING 2018 CRN: 31013
 
 ## Instructor
 Eddie Rangel  
@@ -12,7 +12,6 @@ Building/Room: Business 1
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 Course Site: https://portal.bakersfieldcollege.edu/   
-Web: http://www.eddierangel.com/bc   
 
 ## Course Information
 Online via [Canvas](https://kccd.instructure.com/) or
@@ -23,11 +22,11 @@ Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 09:30am – 11:00am
-Tuesday | 03:00pm – 04:00pm
-Wednesday | 09:30am – 11:00am
-Thursday | 03:00pm – 04:00pm
-* If you are unable to see me during my regularly scheduled office hours, please contact me through Canvas to schedule an appointment.
+Monday | 11:30am – 01:00pm
+Monday | 03:00pm – 04:00pm
+Wednesday | 11:30am – 01:00pm
+Wednesday | 03:00pm – 04:00pm
+* If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 ## Course Description
 Recommended: Reading - 1 Level Prior to Transfer. 
@@ -74,10 +73,10 @@ http://www.albion.com/netiquette/index.html.
 
 Assignment | Points
 ------------ | -------------
-Mid Term Exam | 50
+Mid Term Exam | 100
+Quizzes | 100
 Homework Assignments (10 @ 20 points each) | 200
-Discussions (10 @ 10 points each)| 100
-Final Exam | 50
+Final Exam | 100
 **TOTAL** | **400**
 
 Range (%) | Grade 
@@ -106,14 +105,14 @@ habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-m
 ## Important Dates
 Date | Event
 ------ | ------
-Aug 19 | Fall Semester - Instruction Begins 
-Sep 03 | Last day to drop from a semester length class without receiving a W 
-Sep 04 | Labor Day Holiday - Campus Closed
-Oct 20 | Last day to withdraw from a semester length class and receive a W 
-Nov 10 | Veterans Day - Campus Closed 
-Nov 23 | Thanksgiving Holiday - Campus Closed 
-Nov 24 | Thanksgiving Holiday - Campus Closed 
-Dec 09 | End of Fall Semester
+Jan 13 | Spring Semester - Instruction Begins 
+Jan 15 | Martin Luther King, Jr. Day Holiday – Campus Closed
+Jan 28 | Last day to drop from a semester length class without receiving a W 
+Feb 16 | Lincoln Holiday - Campus Closed 
+Feb 19 | Washington Holiday - Campus Closed  
+Mar 23 | Last day to withdraw from a semester length class and receive a W 
+Mar 26 | Spring Break - Campus Closed 
+May 11 | End of Spring Semester
 
 ## 16 Week Semester Schedule  
 Week | Topics | Reading | Assignments
@@ -130,11 +129,12 @@ Week | Topics | Reading | Assignments
 9 | Midterm Project |  | 
 10 | Designing for Mobile Devices | Ch. 14 | 
 11 | CSS3 Tricks | Ch. 15 | 
-12 | Video and Multimedia | | 
-13 | HTML5 Canvas  | Ch. 9 | 
-14 | Using external scripts |  |
-15 | Redesign Process Final Project Work Time |  |
-16 | Project Due |  |
+12 | Spring Break | | 
+13 | Video and Multimedia | | 
+14 | HTML5 Canvas  | Ch. 9 | 
+15 | Using external scripts |  |
+16 | Redesign Process Final Project Work Time |  |
+17 | Project Due |  |
 
 ## Accommodations 
 Students with disabilities needing accommodation, including those who had an IEP in high school, should make requests to Disabled Students Programs and Services in CSS 10, or Delano room 1001 (661-395-4334, (661-720-2000 Delano)).  All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC
