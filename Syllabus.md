@@ -14,8 +14,12 @@ Phone: (661) 395-4879
 Course Site: https://portal.bakersfieldcollege.edu/   
 
 ## Course Information
-Online via [Canvas](https://kccd.instructure.com/) or
-through the [BC Portal](https://portal.bakersfieldcollege.edu)
+**Building/Room: Business 5**  
+
+Day | Time
+------------ | -------------
+Tuesday | 11:10am - 12:35am  
+Thursday | 11:10am - 12:35am     
 
 ## Office Hours
 Office: Business 1
